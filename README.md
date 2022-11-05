@@ -16,10 +16,10 @@
 ><h2 align="left"> ✨ Contact Me</h2>
 <br/>
 <div align="left">
-  <a href="mailto:alirezamohammadkhani2@gmail.com" target="_blank">
+  <a href="hashemiisajad9@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/alireza-mohammadkhani-41a526203/" target="_blank">
+  <a href="https://www.linkedin.com/in/sajad-hashemi-57135224b" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" height="35" alt="instagram logo"  />
   </a>
 </div>
